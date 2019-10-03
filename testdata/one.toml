@@ -1,0 +1,29 @@
+int = 5
+
+[map.one]
+float = 4.5
+[map.two]
+float = 4.5
+
+[mapptr.one]
+float = 4.5
+[mapptr.two]
+float = 4.5
+
+[mapprim]
+one = 1
+two = 1
+
+[mapprimptr]
+one = 1
+two = 1
+
+[[slice]]
+float = 4.5
+[[slice]]
+float = 4.5
+
+[[sliceptr]]
+float = 4.5
+[[sliceptr]]
+float = 4.5
